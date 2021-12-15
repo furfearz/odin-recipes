@@ -1,1 +1,1 @@
-Some recipe project from a newbie :D
+Some dummy recipe project from a newbie :D
